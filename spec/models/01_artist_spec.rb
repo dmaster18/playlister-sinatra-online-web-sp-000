@@ -1,4 +1,4 @@
-require 'spec_helper'
+equire 'spec_helper'
 
 describe "Artist" do
   before do 
